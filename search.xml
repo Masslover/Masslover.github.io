@@ -33,7 +33,7 @@
 <p><img src="/post/b79fb44d/00007.jpg" alt="00007"></p>
 <p>登录Localhost:4000，即可看到本地的效果如下：</p>
 <p><img src="/post/b79fb44d/SSS.jpg" alt="SSS"></p>
-<h1 id="部署到GitHub-Page上"><a href="#部署到GitHub-Page上" class="headerlink" title="部署到GitHub Page上"></a>部署到GitHub Page上</h1><p>那么现在本地的博客已经搭建起来了，但是我们只可以通过本地连接查看我们的博客。如何让别人也看到我们的博客，就需要把本地的博客发布到服务器上，而Github Pages就帮我们完成了这件事情。但是Github Pages的代码都是寄存在Github上面的。那么接下来我们需要在Github上面创建一个新的项目。</p>
+<h1 id="部署到GitHub-Page上"><a href="#部署到GitHub-Page上" class="headerlink" title="部署到GitHub Page上"></a>部署到GitHub Page上</h1><p>那么现在本地的博客已经搭建起来了，但是我们只可以通过本地连接查看我们的博客。如何让别人也看到我们的博客，就需要把本地的博客发布到服务器上，而Github Pages就帮我们完成了这件事情。其实Github Pages的代码都是寄存在Github上面的。那么接下来我们需要在Github上面创建一个新的项目。</p>
 <h2 id="一、注册GitHub账户"><a href="#一、注册GitHub账户" class="headerlink" title="一、注册GitHub账户"></a>一、注册GitHub账户</h2><p>访问<a href="https://github.com/" target="_blank" rel="noopener">Github首页</a></p>
 <p>点击右上角的Sign Up，注册自己的账户</p>
 <p><img src="/post/b79fb44d/QQ%E6%88%AA%E5%9B%BE20200529150731.jpg" alt="QQ截图20200529150731"></p>
@@ -144,9 +144,6 @@
 <li>随时修改你的文章版本，不必像字处理软件生成若干文件版本导致混乱。</li>
 <li>可读、直观、学习成本低。</li>
 </ul>
-<p>我该用什么工具？</p>
-<p>Windows下可以使用Typora或MarkdownPad2。</p>
-<p>在Mac OS上，我建议你用Mou这款免费且十分好用的Markdown编辑器。</p>
 <p>我该用什么工具？</p>
 <p>Windows下可以使用Typora或MarkdownPad2。</p>
 <p>在Mac OS上，我建议你用Mou这款免费且十分好用的Markdown编辑器。</p>
